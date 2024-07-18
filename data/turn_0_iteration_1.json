@@ -1,0 +1,13 @@
+{
+	"name": "0",
+	"color": "red",
+	"children": [
+	{
+		"name": "1"
+	},
+	{
+		"name": "2",
+		"color": "orange"
+	}
+	]
+}
